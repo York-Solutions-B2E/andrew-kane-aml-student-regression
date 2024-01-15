@@ -1,3 +1,7 @@
 .DS_Store
 *.zip
 *.pdf
+*.yaml
+*.csv
+*.txt
+/local_data
